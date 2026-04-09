@@ -1,16 +1,73 @@
-## Hi there 👋
+# Felix Ogutu Odhiambo
 
-<!--
-**FelixOgutuOdhiambo/FelixOgutuOdhiambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Turning aviation data into strategy, and strategy into impact.
 
-Here are some ideas to get you started:
+## 👋 About Me
+Jambo! 👋  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m an aviation analytics professional with a background in statistics and 4+ years of experience supporting data-driven decision-making across the airline ecosystem ✈️📊  
+
+I operate at the intersection of **data, operations, and strategy**, translating complex datasets into insights that improve performance, optimize networks, and support planning.
+
+---
+
+## ✈️ Aviation Focus
+- **Network & Commercial** → route performance, demand, capacity optimization  
+- **Operations** → on-time performance, delays, utilization  
+- **Maintenance** → reliability, efficiency  
+- **Financials** → cost, profitability  
+- **Sustainability** → efficiency, emissions  
+
+---
+
+## 🚀 What I Do
+- Turn data into **decision-ready insights**  
+- Support planning through **forecasting and analysis**  
+- Identify performance gaps and optimization opportunities  
+- Enable faster, more effective decision-making  
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+**Data & Analytics**  
+Python • R • SQL • Pandas • NumPy • Scikit-learn • dplyr • ggplot2 • tidyr • forecast
+
+**BI & Visualization**  
+Power BI • Microsoft Fabric  
+
+**Data Handling & Tools**  
+Excel (Advanced) • Git • GitHub • Anaconda  
+
+**Core Capabilities**  
+Forecasting • Scenario Analysis • Optimization • Data Modeling  
+
+---
+
+## 📈 Impact & Milestones
+- Supported **network performance analysis and capacity decisions** across multiple routes  
+- Developed **automated reporting and dashboards** improving decision turnaround time  
+- Contributed to **data-driven planning and operational efficiency improvements**  
+
+---
+
+## 🧠 Approach
+- Define the decision  
+- Use data to support it  
+- Evaluate trade-offs and impact  
+
+---
+
+## 🌍 Current Focus
+- End-to-end aviation analytics  
+- Forecasting and optimization  
+- Strategic and system-level planning  
+
+---
+
+## 🌐 Social & Portfolio
+- [LinkedIn](https://www.linkedin.com/in/felixogutu889/)  
+- [GitHub](https://github.com/FelixOgutuOdhiambo)  
+---
+
+## 🤝 Let’s Connect
