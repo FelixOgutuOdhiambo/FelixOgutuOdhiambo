@@ -1,73 +1,60 @@
-# Felix Ogutu Odhiambo
+# Felix Ogutu Odhiambo  
+> Turning aviation data into strategy ✈️📊  
 
-> Turning aviation data into strategy, and strategy into impact.
+## 👋 About Me  
+Aviation analytics professional with 4+ years’ experience using data to optimise **network, operations, and strategy**.  
 
-## 👋 About Me
-Jambo! 👋  
-
-I’m an aviation analytics professional with a background in statistics and 4+ years of experience supporting data-driven decision-making across the airline ecosystem ✈️📊  
-
-I operate at the intersection of **data, operations, and strategy**, translating complex datasets into insights that improve performance, optimize networks, and support planning.
+I focus on turning complex datasets into **clear, decision-ready insights**.
 
 ---
 
-## ✈️ Aviation Focus
-- **Network & Commercial** → route performance, demand, capacity optimization  
-- **Operations** → on-time performance, delays, utilization  
-- **Maintenance** → reliability, efficiency  
-- **Financials** → cost, profitability  
-- **Sustainability** → efficiency, emissions  
+## ✈️ Focus Areas  
+- Network & Commercial  
+- Operations Performance  
+- Profitability & Cost  
+- Maintenance Efficiency  
+- Sustainability & Emissions  
 
 ---
 
-## 🚀 What I Do
-- Turn data into **decision-ready insights**  
-- Support planning through **forecasting and analysis**  
-- Identify performance gaps and optimization opportunities  
-- Enable faster, more effective decision-making  
+## 🚀 What I Do  
+- Data → insights → decisions  
+- Forecasting & scenario analysis  
+- Performance optimization  
+- Decision support  
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ Tech Stack  
 
-**Data & Analytics**  
-Python • R • SQL • Pandas • NumPy • Scikit-learn • dplyr • ggplot2 • tidyr • forecast
+### 📊 Data & Analytics  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**BI & Visualization**  
-Power BI • Microsoft Fabric  
+### 📈 BI & Visualization  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-**Data Handling & Tools**  
-Excel (Advanced) • Git • GitHub • Anaconda  
-
-**Core Capabilities**  
-Forecasting • Scenario Analysis • Optimization • Data Modeling  
-
----
-
-## 📈 Impact & Milestones
-- Supported **network performance analysis and capacity decisions** across multiple routes  
-- Developed **automated reporting and dashboards** improving decision turnaround time  
-- Contributed to **data-driven planning and operational efficiency improvements**  
+### ⚙️ Tools  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🧠 Approach
-- Define the decision  
-- Use data to support it  
-- Evaluate trade-offs and impact  
+## 📈 Impact  
+- Improved **network and capacity decisions**  
+- Built **automated dashboards & reporting**  
+- Enabled **faster, data-driven planning**  
 
 ---
 
-## 🌍 Current Focus
-- End-to-end aviation analytics  
-- Forecasting and optimization  
-- Strategic and system-level planning  
+## 🌍 Current Focus  
+Forecasting • Optimization • End-to-end aviation analytics  
 
 ---
 
-## 🌐 Social & Portfolio
+## 🌐 Connect  
 - [LinkedIn](https://www.linkedin.com/in/felixogutu889/)  
 - [GitHub](https://github.com/FelixOgutuOdhiambo)  
----
-
-## 🤝 Let’s Connect
