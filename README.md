@@ -2,7 +2,7 @@
 > Turning aviation data into strategy ✈️📊  
 
 ## 👋 About Me  
-Aviation analytics professional with 4+ years’ experience using data to optimise **network, operations, and strategy**.  
+Aviation analytics professional with 5+ years’ experience using data to optimise **network, operations, and strategy**.  
 
 I focus on turning complex datasets into **clear, decision-ready insights**.
 
