@@ -1,22 +1,27 @@
 # Felix Ogutu Odhiambo
 
-**Aviation Analytics · Network Planning · Business Intelligence**
+## Data Science and Data Ecosystem Specialist
+
+**Aviation Data, Analytics and Strategy Specialist**
+
+I connect data, statistics, platforms and business context to build analytical datasets, forecasts, dashboards and automated management reporting. My work spans data integration and validation, transformation, data quality, business intelligence and commercial and operational decision support.
 
 **Nairobi, Kenya · Open to international relocation**
 
-Jambo! I turn operational and commercial data into practical tools for planning and performance decisions. At **Jambojet**, I work on network analysis, demand forecasting, route economics, scheduling and reporting.
+I’m seeking international opportunities offering **employer visa sponsorship and relocation support** across data science, analytics, BI, network planning, commercial and strategy functions.
 
-My background in **Applied Statistics** connects statistical analysis with the business questions behind the data.
+[LinkedIn](https://www.linkedin.com/in/felixogutuodhiambo/) · [Email](mailto:felixogutu889@gmail.com) · [Explore my repositories](https://github.com/FelixOgutuOdhiambo?tab=repositories)
 
-## International opportunities
+## Areas of experience
 
-I’m seeking international roles offering **employer visa sponsorship and relocation support**.
+- **Data and BI:** Integrate and validate data, develop KPIs, build dashboards and automate management reporting to support commercial and operational decisions.
+- **Forecasting and scenario analysis:** Evaluate demand, seasonal patterns and planning scenarios; analyse route performance and profitability, bookings and fares.
+- **Network, fleet and schedule planning:** Develop and maintain short-, medium- and long-term schedules, including planning horizons of approximately **nine months**. Assess frequency, capacity and aircraft utilisation to support fleet and schedule optimisation.
+- **Commercial and operational analysis:** Support route-launch and route-development business cases through competitive and market analysis; investigate operational disruptions and delays.
 
-**Target roles:** Network Planning Analyst · Data Analyst · Business Intelligence Analyst · Data Scientist · Commercial Analyst
+I collaborate with **Commercial, Revenue Management, Finance, Operations, Maintenance, Marketing and leadership teams**, connecting analytical work with planning constraints and business decisions.
 
-[LinkedIn](https://www.linkedin.com/in/felixogutuodhiambo/) · [Email](mailto:felixogutu889@gmail.com) · [Browse my repositories](https://github.com/FelixOgutuOdhiambo?tab=repositories)
-
-## Selected projects
+## Selected project
 
 ### [European Aviation CO₂ Emissions Analytics](https://github.com/FelixOgutuOdhiambo/european-aviation-emissions)
 
@@ -28,24 +33,30 @@ A Microsoft Fabric and Power BI project exploring European aviation emissions an
 
 **Stack:** Microsoft Fabric · PySpark · SQL · Power BI
 
-## Toolkit
+## Tools and systems
 
-**Analysis:** Python · SQL / T-SQL · R · SPSS  
-**Data & BI:** Microsoft Fabric · PySpark · Power BI · DAX · Power Query  
-**Reporting:** Advanced Excel / VBA · Tableau · IBM Cognos Analytics · Power Automate  
+**Data and statistics:** SQL / T-SQL · Python · R · SPSS  
+**Platforms and BI:** Microsoft Fabric · PySpark · Power BI · Power Query · DAX  
+**Reporting and visualisation:** Advanced Excel / VBA · Tableau · IBM Cognos Analytics · Power Automate  
+**Airline systems:** Zulu · Wingtrac · SkySpeed  
 **Development:** Git · GitHub · VS Code
 
-## Experience
+## Employment
 
-- **Jambojet:** Network Analyst / Network Data Scientist · Dec 2023–Present. Network planning, forecasting, route analysis and reporting automation.
-- **Astral Aviation:** Data Analyst · Sep 2021–Nov 2023. Flight operations, cargo, fuel and sustainability analytics. Automated weekly reporting to save **10 hours per week** and improved load-sheet preparation to save **30 minutes per flight**.
+**Jambojet — Network Data Scientist / Network Analyst**  
+Dec 2023–Present · Nairobi, Kenya
 
-## Education & development
+Network planning, schedule analysis, forecasting, route and commercial analysis, and reporting automation.
+
+**Astral Aviation — Data Analyst**  
+Sep 2021–Nov 2023 · Nairobi, Kenya
+
+Flight operations, cargo, fuel and sustainability analytics. Automated weekly reporting to save **10 hours per week** and improved load-sheet preparation to save **30 minutes per flight**.
+
+## Education and development
 
 **B.A.Sc. in Statistics** — Mount Kenya University  
 **Network, Fleet and Schedule Planning** — IATA Training
-
-I share documented analytical workflows and aviation data projects. My current interests include forecasting, scheduling optimisation and reliable data models.
 
 ## Learning resources
 
