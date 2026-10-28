@@ -2,9 +2,17 @@
 
 **Aviation Analytics · Network Planning · Business Intelligence**
 
+**Nairobi, Kenya · Open to international relocation**
+
 Jambo! I turn operational and commercial data into practical tools for planning and performance decisions. At **Jambojet**, I work on network analysis, demand forecasting, route economics, scheduling and reporting.
 
 My background in **Applied Statistics** connects statistical analysis with the business questions behind the data.
+
+## International opportunities
+
+I’m seeking international roles offering **employer visa sponsorship and relocation support**.
+
+**Target roles:** Network Planning Analyst · Data Analyst · Business Intelligence Analyst · Data Scientist · Commercial Analyst
 
 [LinkedIn](https://www.linkedin.com/in/felixogutuodhiambo/) · [Email](mailto:felixogutu889@gmail.com) · [Browse my repositories](https://github.com/FelixOgutuOdhiambo?tab=repositories)
 
