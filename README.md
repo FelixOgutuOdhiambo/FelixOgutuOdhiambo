@@ -20,15 +20,6 @@ A Microsoft Fabric and Power BI project exploring European aviation emissions an
 
 **Stack:** Microsoft Fabric · PySpark · SQL · Power BI
 
-### [Power BI Visuals with HTML & DAX](https://github.com/FelixOgutuOdhiambo/Power-BI-Visuals-HTML-DAX-)
-
-A collection of DAX measures that generate custom HTML visuals, including bar, column, donut and line charts.
-
-- Dynamic reporting patterns and a field-parameter-driven monthly trend visual.
-- Examples for adapting chart layouts and KPI presentation.
-
-**Stack:** Power BI · DAX · HTML · CSS
-
 ## Toolkit
 
 **Analysis:** Python · SQL / T-SQL · R · SPSS  
@@ -46,4 +37,8 @@ A collection of DAX measures that generate custom HTML visuals, including bar, c
 **B.A.Sc. in Statistics** — Mount Kenya University  
 **Network, Fleet and Schedule Planning** — IATA Training
 
-I share documented analytical workflows, reusable Power BI patterns and aviation data projects. My current interests include forecasting, scheduling optimisation and reliable data models.
+I share documented analytical workflows and aviation data projects. My current interests include forecasting, scheduling optimisation and reliable data models.
+
+## Learning resources
+
+[Power BI visuals with HTML & DAX](https://github.com/FelixOgutuOdhiambo/Power-BI-Visuals-HTML-DAX-) is a fork of [Fasaclox’s original project](https://github.com/Fasaclox/Power-BI-Visuals-Using-Claude-AI-HTML-DAX), retained as a reference for custom visuals and field-parameter techniques.
