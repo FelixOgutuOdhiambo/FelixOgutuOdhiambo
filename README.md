@@ -8,8 +8,6 @@ I connect data, statistics, platforms and business context to build analytical d
 
 **Nairobi, Kenya · Open to international relocation**
 
-I’m seeking international opportunities offering **employer visa sponsorship and relocation support** across data science, analytics, BI, network planning, commercial and strategy functions.
-
 [LinkedIn](https://www.linkedin.com/in/felixogutuodhiambo/) · [Email](mailto:felixogutu889@gmail.com) · [Explore my repositories](https://github.com/FelixOgutuOdhiambo?tab=repositories)
 
 ## Areas of experience
@@ -19,7 +17,7 @@ I’m seeking international opportunities offering **employer visa sponsorship a
 - **Network, fleet and schedule planning:** Develop and maintain short-, medium- and long-term schedules, including planning horizons of approximately **nine months**. Assess frequency, capacity and aircraft utilisation to support fleet and schedule optimisation.
 - **Commercial and operational analysis:** Support route-launch and route-development business cases through competitive and market analysis; investigate operational disruptions and delays.
 
-I collaborate with **Commercial, Revenue Management, Finance, Operations, Maintenance, Marketing and leadership teams**, connecting analytical work with planning constraints and business decisions.
+I've collaborated with **Commercial, Revenue Management, Finance, Operations, Maintenance, Marketing and leadership teams**, connecting analytical work with planning constraints and business decisions.
 
 ## Selected project
 
